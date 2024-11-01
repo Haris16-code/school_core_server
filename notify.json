@@ -1,6 +1,6 @@
 {
-    "status": "active", // Possible values: "active", "inactive"
-    "message": "This is an alert from Haris, the developer of the School Management System.", // The alert message to display
-    "lock_status": "locked", // Possible values: "locked", "unlocked"
-    "close_time": 100 // Close time in seconds (if needed for other uses, optional)
+    "status": "active",
+    "message": "This is an alert from Haris, the developer of the School Management System.",
+    "lock_status": "locked",
+    "close_time": 100
 }
