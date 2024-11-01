@@ -1,6 +1,5 @@
 {
     "status": "active",
     "message": "This is an alert from Haris, the developer of the School Management System.",
-    "lock_status": "locked",
-    "close_time": 100
+    "lock_status": "locked"
 }
