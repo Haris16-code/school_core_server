@@ -1,6 +1,6 @@
 {
     "status": "active",
     "lock_status": "unlocked",
-    "message": "Your core message goes here.",
-    "fetch_timeout": 300
+    "message": "Notify is active but active and show after 5 seconds",
+    "fetch_timeout": 5
 }
