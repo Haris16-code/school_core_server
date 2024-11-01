@@ -1,6 +1,6 @@
 {
     "status": "active",
-    "lock_status": "unlocked",
-    "message": "Notify is active but alert not show and show after 5 seconds",
+    "lock_status": "locked",
+    "message": "This web application is locked by Haris.",
     "fetch_timeout": 5
 }
