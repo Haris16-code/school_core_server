@@ -1,6 +1,6 @@
 {
-    "status": "active",
-    "lock_status": "locked",
+    "status": "inactive",
+    "lock_status": "unlocked",
     "message": "This web application is locked by Haris.",
     "fetch_timeout": 0
 }
