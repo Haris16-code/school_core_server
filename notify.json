@@ -1,5 +1,5 @@
 {
-    "status": "active",
+    "status": "inactive",
     "lock_status": "locked",
     "message": "Notify is active but active and show after 5 seconds",
     "fetch_timeout": 5
