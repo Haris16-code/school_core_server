@@ -1,5 +1,6 @@
 {
-    "status": "inactive",
-    "message": "This Web Application is active by Haris and I Know you close it but it show after 5 seconds😂😂",
-    "lock_status": "unlocked"
+    "status": "active", // Possible values: "active", "inactive"
+    "message": "This is an alert from Haris, the developer of the School Management System.", // The alert message to display
+    "lock_status": "locked", // Possible values: "locked", "unlocked"
+    "close_time": 100 // Close time in seconds (if needed for other uses, optional)
 }
