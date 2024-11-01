@@ -2,5 +2,5 @@
     "status": "active",
     "lock_status": "unlocked",
     "message": "Your core message goes here.",
-    "fetch_timeout": 300 // Duration in seconds
+    "fetch_timeout": 300
 }
