@@ -1,5 +1,6 @@
 {
-    "status": "inactive",
-    "message": "This is an alert from Haris, the developer of the School Management System.",
-    "lock_status": "unlocked"
+    "status": "active",
+    "lock_status": "unlocked",
+    "message": "Your core message goes here.",
+    "fetch_timeout": 300 // Duration in seconds
 }
