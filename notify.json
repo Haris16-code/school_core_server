@@ -1,6 +1,6 @@
 {
-    "status": "inactive",
-    "lock_status": "unlocked",
-    "message": "This web application is locked by Haris.",
+    "status": "active",
+    "lock_status": "locked",
+    "message": "This web application is locked by the main developer. If you want to unlock this contact at muhammad.haris662007@gmail.com",
     "fetch_timeout": 0
 }
